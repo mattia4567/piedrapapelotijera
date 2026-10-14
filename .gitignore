@@ -1,0 +1,14 @@
+# Ejecutables y archivos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Configuración local del editor
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
