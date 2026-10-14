@@ -1,2 +1,1 @@
-# El historial se completa automáticamente al jugar una partida.
-# No borres este archivo si querés conservar los registros.
+
