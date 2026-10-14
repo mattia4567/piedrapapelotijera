@@ -40,7 +40,7 @@ int main() {
 
     cout << "=====================================================\n";
     cout << " LPR 2026 - ACTIVIDAD 7: PIEDRA, PAPEL O TIJERA\n";
-    cout << " Estudiante: [Completar nombre y apellido]\n";
+    cout << " Estudiante: Federico Mattia \n";
     cout << "=====================================================\n";
 
     do {
